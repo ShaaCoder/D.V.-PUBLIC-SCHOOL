@@ -71,7 +71,7 @@ export default function Header() {
                 </Link>
               ))}
               <a
-                href="/api/download-prospectus"
+                href="/prospectus.pdf"
                 download="D.V. PUBLIC SCHOOL Prospectus.pdf"
                 className="bg-white text-orange-500 px-4 py-2 rounded-lg font-semibold hover:bg-orange-50 transition-all duration-200 shadow-md hover:shadow-lg"
               >
@@ -111,7 +111,7 @@ export default function Header() {
                 </Link>
               ))}
               <a
-                href="/api/download-prospectus"
+                href="/prospectus.pdf"
                 download="D.V. PUBLIC SCHOOL Prospectus.pdf"
                 className="block bg-white text-orange-500 px-3 py-2 rounded-lg font-semibold hover:bg-orange-50 transition-colors text-center mt-2"
                 onClick={() => setMobileMenuOpen(false)}
