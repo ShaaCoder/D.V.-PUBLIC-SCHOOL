@@ -16,8 +16,8 @@ export default function ProspectusCTA() {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="/api/download-prospectus"
-              download="DV Public School Prospectus.pdf"
+              href="/prospectus.pdf"
+              download="D.V. PUBLIC SCHOOL Prospectus.pdf"
               className="inline-flex items-center px-8 py-4 bg-white text-orange-600 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               <Download className="mr-2 h-5 w-5" />
