@@ -30,7 +30,7 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span className="text-sm">f-200, Vijay vihar Phase I, Phase 1, Pocket J, Sector 4, Rohini, Delhi, 110085</span>
+                <span className="text-sm">F Block Vijay Vihar Phase-1 Rohini Delhi Near Shri Hanuman Mandir 110085</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
