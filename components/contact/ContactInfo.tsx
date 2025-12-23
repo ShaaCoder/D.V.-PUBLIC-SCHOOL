@@ -18,7 +18,7 @@ export default function ContactInfo() {
             {
               icon: MapPin,
               title: 'Address',
-              content: 'f-200, Vijay vihar Phase I, Phase 1, Pocket J, Sector 4, Rohini, Delhi, 110085',
+              content: 'F Block Vijay Vihar Phase-1 Rohini Delhi Near Shri Hanuman Mandir , 110085',
               link: '#',
             },
             {

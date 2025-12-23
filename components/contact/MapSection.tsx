@@ -27,7 +27,7 @@ export default function MapSection() {
           <div className="p-6 bg-gradient-to-r from-yellow-100 to-orange-100">
             <div className="text-center">
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-              f-200, Vijay vihar Phase I, Phase 1, Pocket J, Sector 4, Rohini, Delhi, 110085
+              F Block Vijay Vihar Phase-1 Rohini Delhi Near Shri Hanuman Mandir , 110085
               </h3>
               <p className="text-gray-600">
                 Easily accessible by public transport with parking facilities available
