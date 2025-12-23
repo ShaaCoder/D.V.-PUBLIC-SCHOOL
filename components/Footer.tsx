@@ -34,11 +34,11 @@ export default function Footer() {
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span className="text-sm">+91 07503872857</span>
+                <span className="text-sm">9990616167,9990616177, 9990616187</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">info@dvpublicschool.edu.in</span>
+                <span className="text-sm">dvpublicschool89@gmail.com</span>
               </div>
             </div>
           </div>
