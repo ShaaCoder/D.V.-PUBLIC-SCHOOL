@@ -31,7 +31,7 @@ export default function Hero() {
             </Link>
             
             <a
-              href="/api/download-prospectus"
+              href="/prospectus.pdf"
               download="DV Public School Prospectus.pdf"
               className="inline-flex items-center px-8 py-4 bg-white text-orange-600 font-semibold rounded-xl hover:bg-gray-50 transition-all duration-200 shadow-lg hover:shadow-xl border-2 border-orange-200 hover:border-orange-300 transform hover:scale-105"
             >

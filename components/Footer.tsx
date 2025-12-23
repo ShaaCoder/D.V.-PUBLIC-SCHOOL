@@ -30,15 +30,15 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span className="text-sm">f-200, Vijay vihar Phase I, Phase 1, Pocket J, Sector 4, Rohini, Delhi, 110085</span>
+                <span className="text-sm">F Block Vijay Vihar Phase-1 Rohini Delhi Near Shri Hanuman Mandir 110085</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span className="text-sm">+91 07503872857</span>
+                <span className="text-sm">9990616167,9990616177, 9990616187</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span className="text-sm">info@dvpublicschool.edu.in</span>
+                <span className="text-sm">dvpublicschool89@gmail.com</span>
               </div>
             </div>
           </div>
@@ -68,7 +68,7 @@ export default function Footer() {
             </p>
             <div className="space-y-2">
               <a
-                href="https://wa.me/918810524651"
+                href="https://wa.me/919990616167"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors"
@@ -76,7 +76,7 @@ export default function Footer() {
                 WhatsApp Us
               </a>
               <a
-                href="tel:+918810524651"
+                href="tel:+919990616167"
                 className="inline-block bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg text-sm font-medium transition-colors ml-2"
               >
                 Call Now

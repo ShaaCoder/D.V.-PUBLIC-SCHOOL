@@ -24,14 +24,14 @@ export default function ContactInfo() {
             {
               icon: Phone,
               title: 'Phone',
-              content: '+91 07503872857',
-              link: 'tel:+9107503872857',
+              content: '+91 9990616167',
+              link: 'tel:+919990616167',
             },
             {
               icon: Mail,
               title: 'Email',
-              content: 'info@dvpublicschool.edu.in',
-              link: 'mailto:info@dvpublicschool.edu.in',
+              content: 'dvpublicschool89@gmail.com',
+              link: 'mailto:dvpublicschool89@gmail.com',
             },
             {
               icon: Clock,
@@ -68,7 +68,7 @@ export default function ContactInfo() {
         <div className="mt-12 text-center">
           <div className="inline-flex flex-col sm:flex-row gap-4">
             <a
-              href="https://wa.me/918810524651"
+              href="https://wa.me/919990616167"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-8 py-4 bg-green-500 hover:bg-green-600 text-white font-semibold rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
@@ -77,7 +77,7 @@ export default function ContactInfo() {
             </a>
             
             <a
-              href="tel:+918810524651"
+              href="tel:+919990616167"
               className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-orange-500 hover:from-yellow-600 hover:to-orange-600 text-white font-semibold rounded-xl transition-all duration-200 shadow-lg hover:shadow-xl transform hover:scale-105"
             >
               Call Now

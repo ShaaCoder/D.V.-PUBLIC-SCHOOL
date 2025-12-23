@@ -60,7 +60,7 @@ export default function FloatingContact() {
           
           <div className="space-y-2">
             <a
-              href="https://wa.me/917835996416"
+              href="https://wa.me/919990616167"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-3 p-3 rounded-lg bg-green-50 hover:bg-green-100 transition-colors group"
@@ -75,7 +75,7 @@ export default function FloatingContact() {
             </a>
             
             <a
-              href="tel:+918810524651"
+              href="tel:+919990616167"
               className="flex items-center space-x-3 p-3 rounded-lg bg-blue-50 hover:bg-blue-100 transition-colors group"
             >
               <div className="bg-blue-500 p-2 rounded-full group-hover:bg-blue-600 transition-colors">
@@ -83,7 +83,7 @@ export default function FloatingContact() {
               </div>
               <div>
                 <div className="font-medium text-gray-900">Call Now</div>
-                <div className="text-sm text-gray-600">+91 918810524651</div>
+                <div className="text-sm text-gray-600">+91 9990616167</div>
               </div>
             </a>
 
