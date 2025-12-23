@@ -45,7 +45,7 @@ export default function Curriculum() {
         </div>
 
         {/* Downloadable Resources */}
-        <div className="bg-white rounded-2xl shadow-lg p-8">
+        {/* <div className="bg-white rounded-2xl shadow-lg p-8">
           <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">
             Downloadable Resources
           </h3>
@@ -69,7 +69,7 @@ export default function Curriculum() {
               </a>
             ))}
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   );

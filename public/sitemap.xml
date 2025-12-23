@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://dvpsrohini.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://dvpsrohini.com/about</loc>
+  </url>
+
+  <url>
+    <loc>https://dvpsrohini.com/academics</loc>
+  </url>
+
+  <url>
+    <loc>https://dvpsrohini.com/contact</loc>
+  </url>
+
+  <url>
+    <loc>https://dvpsrohini.com/gallery</loc>
+  </url>
+
+  <url>
+    <loc>https://dvpsrohini.com/notices</loc>
+  </url>
+
+  <!-- <url>
+    <loc>https://dvpsrohini.com/prospectus</loc>
+  </url> -->
+
+</urlset>

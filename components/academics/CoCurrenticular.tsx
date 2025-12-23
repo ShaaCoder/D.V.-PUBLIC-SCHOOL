@@ -19,12 +19,7 @@ const activities = [
     description: 'Cricket, football, basketball, athletics, and indoor games',
     color: 'from-blue-400 to-indigo-500',
   },
-  {
-    icon: Microscope,
-    title: 'Science Club',
-    description: 'Experiments, science fairs, and research projects',
-    color: 'from-green-400 to-teal-500',
-  },
+ 
   {
     icon: Globe,
     title: 'Cultural Events',
