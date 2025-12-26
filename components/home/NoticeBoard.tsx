@@ -4,21 +4,21 @@ import { Calendar, ArrowRight } from 'lucide-react';
 const notices = [
   {
     id: 1,
-    title: 'Annual Sports Day 2024',
-    date: '2024-01-15',
-    description: 'Join us for our annual sports day celebration with various competitions and activities.',
+    title: 'Circular 04/2025-26: Hybrid Model for Nursery Classes due to AQI',
+    date: '2025-11-22',
+    description: 'Respected Parents In view of the instruction from the Government Authorities regarding the rise in the AQI levels and the invoking the Stage III schedule of GRAP. School will conduct the classes for Nursery, L.K.G & U.K.G. in Hybrid Model from 24 November till further orders. Kindly adhere to the timings and schedule. Regards DVPS',
   },
   {
     id: 2,
-    title: 'Parent-Teacher Meeting',
-    date: '2024-01-20',
-    description: 'Scheduled parent-teacher meetings for academic progress discussion.',
+    title: 'Circular 07/2025-26: Online Classes for Nursery to VIII due to AQI',
+    date: '2025-12-24',
+    description: 'Respected Parents In view of the instruction received from the Directorate of Education regarding the rise in AQI levels and invoking of Stage IV schedule of GRAP, the school will be conducting classes in ONLINE MODE for classes Nursery to VIII FROM 26 DECEMBER 2025 till further orders.  Strictly adhere to the Schedule.  Attendance is Mandatory. Regards DVPS',
   },
   {
     id: 3,
-    title: 'Science Exhibition',
-    date: '2024-01-25',
-    description: 'Students will showcase their innovative science projects and experiments.',
+    title: 'Circular 09/2025-26: Winter Vacation Schedule',
+    date: '2025-12-29',
+    description: 'Respected Parents Thursday, 31 December 2025 to 07 January 2026 will be Winter Vacation for all the classes.  School will REOPEN on 08 January 2026 (Thursday). Regards DVPS',
   },
 ];
 
